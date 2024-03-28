@@ -10,3 +10,5 @@ It took me a bit to figure out how to read the data properly and get the graphs 
 2. Set up functions for creating the charts and metadata display
     Pull filtered data and create charts
 3. Run the init function
+
+Pages: https://mlopez60.github.io/belly-button-challenge/
